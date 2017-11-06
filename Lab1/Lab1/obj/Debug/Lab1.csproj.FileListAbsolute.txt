@@ -7,3 +7,7 @@ C:\Users\Piotrek\Desktop\5 Semestr\Biometria\Biometrics\Lab1\Lab1\obj\Debug\Lab1
 C:\Users\Piotrek\Desktop\5 Semestr\Biometria\Biometrics\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
 C:\Users\Piotrek\Desktop\5 Semestr\Biometria\Biometrics\Lab1\Lab1\obj\Debug\Lab1.exe
 C:\Users\Piotrek\Desktop\5 Semestr\Biometria\Biometrics\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Piotrek\Desktop\5 Semestr\Biometria\Biometrics\Lab1\Lab1\bin\Debug\Highcharts.Web.Mvc.dll
+C:\Users\Piotrek\Desktop\5 Semestr\Biometria\Biometrics\Lab1\Lab1\bin\Debug\Highcharts.Web.Mvc.xml
+C:\Users\Piotrek\Desktop\5 Semestr\Biometria\Biometrics\Lab1\Lab1\obj\Debug\Lab1.Histogram.resources
+C:\Users\Piotrek\Desktop\5 Semestr\Biometria\Biometrics\Lab1\Lab1\obj\Debug\Lab1.Projection.resources
